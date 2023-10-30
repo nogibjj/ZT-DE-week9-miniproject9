@@ -3,7 +3,7 @@
 In this project, we set up a cloud-hosted Jupyter Notebook using Google Colab to demonstrate data manipulation tasks on a sample dataset.
 
 ## Cloud-hosted Notebook
-You can access the cloud-hosted Jupyter notebook directly via this link <https://colab.research.google.com/drive/1mG-g9BC0jwsBk5gswgo1yuYPqJ362xpK?usp=sharing>.
+You can access the cloud-hosted Jupyter notebook directly via this link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mG-g9BC0jwsBk5gswgo1yuYPqJ362xpK?usp=sharing).
 
 ## Setup and Configuration
 ### Google Colab
